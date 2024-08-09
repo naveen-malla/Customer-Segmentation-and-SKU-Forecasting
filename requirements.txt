@@ -3,3 +3,5 @@ matplotlib
 seaborn
 scikit-learn
 statsmodels
+numpy==1.26.4
+prophet

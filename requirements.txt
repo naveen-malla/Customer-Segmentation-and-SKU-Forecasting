@@ -5,3 +5,4 @@ scikit-learn
 statsmodels
 numpy==1.26.4
 prophet
+matplotlib_venn
